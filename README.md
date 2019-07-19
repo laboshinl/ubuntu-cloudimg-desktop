@@ -1,8 +1,7 @@
 # ubuntu-cloudimg-desktop
 Ubuntu-desktop cloud images
 
-Download xenial-server-cloudimg-amd64-desktop.tar.bz2
-http://disk.crplab.ru/index.php/s/MGPfGxpbGtMi2C2/download
+Download [xenial-server-cloudimg-amd64-desktop.tar.bz2](http://disk.crplab.ru/index.php/s/MGPfGxpbGtMi2C2/download)
 
 It has preinstalled mate desktop and xrdp
 After VM creation login via ssh and set password for ubuntu user in order to connect via rdp
